@@ -24,27 +24,27 @@ Code and data to accompany the article by
 
 # Directory structure 
 
-  data
+  - data
 
   contains summary stats used in meta-analysis 
 
-  inst
+  -inst
   
   contains a purl'd output from paper, all code chunks that were in the paper
  
- R 
+ -R 
  
  R functions for paper				
 
- StanModels
+ -StanModels
  
  code for random effects meta-analysis
 	
- documentation
+ -documentation
  
  description of data extraction procedure
 
- vignettes
+ -vignettes
  
  Rmd and html files containing (hopefully!) reproducible code
 
