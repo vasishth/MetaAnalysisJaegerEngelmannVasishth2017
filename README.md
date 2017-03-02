@@ -5,7 +5,7 @@ Code and data to accompany the article by
     Jaeger, Engelmann, Vasishth  (2017). 
 	Similarity-based interference in sentence comprehension: 
 	Literature review and Bayesian meta-analysis. 
-	Journal of Memory and Language. [doi](doi: 10.1016/j.jml.2017.01.004)
+	Journal of Memory and Language. [doi](10.1016/j.jml.2017.01.004)
 
 
 
