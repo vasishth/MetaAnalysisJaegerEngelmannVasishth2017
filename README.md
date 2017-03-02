@@ -12,22 +12,28 @@ Code and data to accompany the article by
 # Directory structure 
 
   data
+
   contains summary stats used in meta-analysis 
 
   inst
+  
   contains a purl'd output from paper, all code chunks that were in the paper
  
  R 
+ 
  R functions for paper				
 
  StanModels
- Code for random effects meta-analysis
+ 
+ code for random effects meta-analysis
 	
  documentation
+ 
  description of data extraction procedure
 
  vignettes
- Rmd and html file containing (hopefully!) reproducible code
+ 
+ Rmd and html files containing (hopefully!) reproducible code
 
 
 # SessionInfo
