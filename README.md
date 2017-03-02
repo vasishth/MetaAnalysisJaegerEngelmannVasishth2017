@@ -8,7 +8,32 @@ Code and data to accompany the article by
 	Journal of Memory and Language. doi: 10.1016/j.jml.2017.01.004
 
 
+
+# Directory structure 
+
+  data
+  contains summary stats used in meta-analysis 
+
+  inst
+  contains a purl'd output from paper, all code chunks that were in the paper
+ 
+ R 
+ R functions for paper				
+
+ StanModels
+ Code for random effects meta-analysis
+	
+ documentation
+ description of data extraction procedure
+
+ vignettes
+ Rmd and html file containing (hopefully!) reproducible code
+
+
 # SessionInfo
+
+If something doesn't work, please check that there isn't any problem with version differences in packages. 
+
 
 	R version 3.3.2 (2016-10-31)
 	Platform: x86_64-apple-darwin13.4.0 (64-bit)
