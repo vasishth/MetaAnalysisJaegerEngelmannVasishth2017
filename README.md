@@ -5,8 +5,21 @@ Code and data to accompany the article by
     Jaeger, Engelmann, Vasishth  (2017). 
 	Similarity-based interference in sentence comprehension: 
 	Literature review and Bayesian meta-analysis. 
-	Journal of Memory and Language. [doi](10.1016/j.jml.2017.01.004)
+	Journal of Memory and Language. doi:10.1016/j.jml.2017.01.004
 
+
+	@article{JaegerEngelmannVasishth2017,
+	  Author = {J{\"a}ger, Lena A. and Engelmann, Felix and Vasishth, Shravan},
+	  doi = {10.1016/j.jml.2017.01.004},
+	  Title = {Similarity-based interference in sentence comprehension: {Literature review and Bayesian meta-analysis}},
+	  abstract = {We report a comprehensive review of the published reading studies on retrieval interference in reflexive-/reciprocal-antecedent and subject-verb dependencies. We also provide a quantitative random-effects meta-analysis of self-paced and eyetracking reading studies. We show that the empirical evidence is only partly consistent with cue-based retrieval as implemented in the ACT-R-based model of sentence processing by Lewis \& Vasishth 2005 (LV05) and that there are important differences between the reviewed dependency types. In non-agreement subject-verb dependencies, there is evidence for inhibitory interference in configurations where the correct dependent fully matches the retrieval cues. This is consistent with the LV05 cue-based retrieval account. By contrast, in subject-verb agreement as well as in reflexive-/reciprocal-antecedent dependencies, no evidence for interference is found in configurations with a fully cue-matching subject. In configurations with only a partially cue-matching subject or antecedent, the meta-analysis revealed facilitatory interference in subject-verb agreement and inhibitory interference in reflexives/reciprocals. The former is consistent with the LV05 account, but the latter is not. Moreover, the meta-analysis revealed that  (i) interference type (proactive versus retroactive) leads to different effects in the reviewed dependency types; and (ii) the prominence of the distractor has an important impact on the interference effect. 
+	In sum, the meta-analysis suggests that the LV05 needs important modifications to account for (i) the unexplained interference patterns and (ii) the differences between the dependency types. More generally, the meta-analysis provides a quantitative empirical basis for comparing the predictions of competing accounts of retrieval processes in sentence comprehension.},
+	  Year = {2017},
+	  volume = {94},
+	  pages = {316-339},
+	  journal={Journal of Memory and Language},
+	  code = {https://github.com/vasishth/MetaAnalysisJaegerEngelmannVasishth2017}
+	  }
 
 
 # Directory structure 
